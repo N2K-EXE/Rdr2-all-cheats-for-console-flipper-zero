@@ -1,0 +1,156 @@
+REM RDR2 Cheats - Flipper Zero BadKB
+REM Click to continue
+
+DEFAULT_DELAY 200
+DEFAULT_STRING_DELAY 25
+
+STRING Virtue unearned is not virtue
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING A simple life, a beautiful death
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Abundance is the dullest desire
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING American Ginseng
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Balance. All is balance
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Be greedy only for foresight
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Better than my dog
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Death is silence
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Eat of knowledge
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Greed is now a virtue
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Guide me better
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING History is written by fools
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Hunger is the best spice
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING I seek and I find
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING I still seek more
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Keep your dreams simple
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Keep your dreams light
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Luck be with you always
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Make me better
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING My kingdom is a horse
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Run! Run! Run!
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Share
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Simple pleasures are the last refuge
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING The lucky be strong evermore
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING The best of the old ways
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING The virtuous be blessed
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING Vanity. All is vanity
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING You flourish before you die
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING You long for sight and see nothing
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING You revel in your disgrace, I see
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING You seek more than the world offers
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING You seek more than you have
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING You seek something new
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING You want everyone to go away
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING You want freedom
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING You want punishment
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING You want strength
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+STRING You want more than you have
+ENTER
