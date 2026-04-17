@@ -1,4 +1,4 @@
-# RDR2 Cheats BadKB
+# RDR2 Cheats With Flipper Zero
 
 Unlocks all Red Dead Redemption 2 cheat codes automatically with Flipper Zero BadKB. No manual typing needed.
 
