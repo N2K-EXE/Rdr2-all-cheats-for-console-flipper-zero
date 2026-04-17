@@ -7,6 +7,8 @@ Unlocks all Red Dead Redemption 2 cheat codes automatically with Flipper Zero Ba
 After each cheat, reopen **Enter Cheat Code** and return to the input screen.
 Press the Flipper button only when the input box is open.
 
+**IF SOME CHEATS DO NOT WORK, IT MEANS THEY ARE NOT UNLOCKED YET. TO UNLOCK THEM, BUY NEWSPAPERS IN VALENTINE, ANNESBURG, RHODES, SAINT DENIS, AND BLACKWATER.**
+
 ## Download
 
 [Download Script](https://github.com/N2K-EXE/Rdr2-all-cheats-for-console-flipper-zero/raw/main/rdr2-all-cheats.txt) or download the repo
