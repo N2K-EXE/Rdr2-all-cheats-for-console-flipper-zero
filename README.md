@@ -9,7 +9,7 @@ Press the Flipper button only when the input box is open.
 
 ## Download
 
-[Download Script](https://github.com/TON-USER/TON-REPO/raw/main/rdr2-all-cheats.txt)
+[Download Script](https://github.com/N2K-EXE/Rdr2-all-cheats-for-console-flipper-zero/raw/main/rdr2-all-cheats.txt)
 
 ## Usage
 
