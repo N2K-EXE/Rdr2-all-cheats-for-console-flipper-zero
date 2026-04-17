@@ -9,6 +9,8 @@ Press the Flipper button only when the input box is open.
 
 **IF SOME CHEATS DO NOT WORK, IT MEANS THEY ARE NOT UNLOCKED YET. TO UNLOCK THEM, BUY NEWSPAPERS IN VALENTINE, ANNESBURG, RHODES, SAINT DENIS, AND BLACKWATER.**
 
+**YOU MUST ALSO PROGRESS THROUGH THE STORY. IF THE STORY IS NOT ADVANCED ENOUGH, SOME CHEATS WILL NOT WORK EVEN IF YOU OWN THE NEWSPAPERS.**
+
 ## Download
 
 [Download Script](https://github.com/N2K-EXE/Rdr2-all-cheats-for-console-flipper-zero/raw/main/rdr2-all-cheats.txt) or download the repo
